@@ -1,5 +1,5 @@
 # SonarQube
-SonarQube For Code Quality &amp; Security Management Tool 
+SonarQube For Code Quality &amp; Security Management Tool
 
 1)SonarQube is a code quality and security management tool that performs static code analysis to identify:
 •	Bugs.
