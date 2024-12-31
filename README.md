@@ -2,10 +2,10 @@
 SonarQube For Code Quality &amp; Security Management Tool
 
 1)SonarQube is a code quality and security management tool that performs static code analysis to identify:
-•	Bugs.
-•	Code smells (maintainability issues).
-•	Security vulnerabilities.
-•	Compliance issues (e.g., OWASP Top 10, SANS Top 25).
+•	Bugs
+•	Code smells (maintainability issues)
+•	Security vulnerabilities
+•	Compliance issues (e.g., OWASP Top 10, SANS Top 25)
 
 2)Why is SonarQube Important for Source Code Security?
 Security Benefits:
