@@ -29,5 +29,6 @@ Security Benefits:
 4.	Continuous Integration:
     Integrates into the development workflow, performing automatic checks during the build process.
 
-   ![image](https://github.com/user-attachments/assets/7982a7e2-31a6-4f1a-afc0-0e92ddd0c3b5)
+   ![image](https://github.com/user-attachments/assets/b8eeab33-628c-49a6-8f37-7e0af049c4fa)
+
 
